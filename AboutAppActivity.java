@@ -1,6 +1,7 @@
 /*********************************************************************
  FILE:    AboutAppActivity
  PROGRAMMER: Bryan Butz
+LAST UPDATE: 4/22/2020
 
  FUNCTION:   This informs the user in the usage of the app as well as
              who programmed the app.
