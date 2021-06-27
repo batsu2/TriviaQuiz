@@ -1,8 +1,7 @@
 /*********************************************************************
  FILE:    SettingsActivity
  PROGRAMMER: Bryan Butz
- LOGON ID:   z1836033
- DUE DATE:   3/06/2020
+ LAST UPDATE: 7/8/2020
 
  FUNCTION:   This holds the functions to generate the URL needed for the
              openTDB API. It gives the user the option to chose the
