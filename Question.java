@@ -1,8 +1,7 @@
 /*********************************************************************
  FILE:    Question
  PROGRAMMER: Bryan Butz
- LOGON ID:   z1836033
- DUE DATE:   3/06/2020
+ LAST UPDATE: 3/6/2020
 
  FUNCTION:   This class functions as a Question object for the JSON
              data to be inserted into. It holds the question text,
