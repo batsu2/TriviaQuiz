@@ -1,8 +1,7 @@
 /*********************************************************************
  FILE:    QuestionArrayAdapter
  PROGRAMMER: Bryan Butz
- LOGON ID:   z1836033
- DUE DATE:   3/06/2020
+ LAST UPDATE: 3/6/2020
 
  FUNCTION:   This functions as an array adapter for an array of question
              objects.
