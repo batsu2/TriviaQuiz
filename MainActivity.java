@@ -1,9 +1,6 @@
 /*********************************************************************
  FILE:    Trivia Quiz
  PROGRAMMER: Bryan Butz
- LOGON ID:   z1836033
- ASSIGNMENT: 1
- DUE DATE:   3/06/2020
 
  FUNCTION:   This app retrieves data from the openTDB API and stores it
              as an array of Question objects. It then displays the
