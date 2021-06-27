@@ -1,6 +1,7 @@
 /*********************************************************************
  FILE:    Trivia Quiz
  PROGRAMMER: Bryan Butz
+ LAST UPDATE: 7/8/2020
 
  FUNCTION:   This app retrieves data from the openTDB API and stores it
              as an array of Question objects. It then displays the
